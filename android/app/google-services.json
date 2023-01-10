@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406449514823",
+    "project_id": "arvaaksesoris-d3ce5",
+    "storage_bucket": "arvaaksesoris-d3ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406449514823:android:264fb41c1340d53f5cc462",
+        "android_client_info": {
+          "package_name": "com.riski.arvaaksesoris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406449514823-45c651ro4hu9cdo00sflkqfg1557edhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUG0BSYCBvHHW4bphYroCkdByfAXIqOgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406449514823-45c651ro4hu9cdo00sflkqfg1557edhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
